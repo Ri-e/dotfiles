@@ -1,3 +1,6 @@
 # dotfiles
 hyprland dotfiles
-used cattpuuccin themes and waybar and rofi = dravula theme
+used cattpuuccin themes 
+
+
+important part: waybar dracula, rofi dracula, and downloads_manager_script and its implementation in hyprland.conf  
